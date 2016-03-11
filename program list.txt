@@ -1,0 +1,173 @@
+IdentifyingNumber : {90150000-0138-0409-0000-0000000FF1CE} *
+Name              : Microsoft Office
+Vendor            : Microsoft Corporation
+Version           : 15.0.4693.1005
+Caption           : Microsoft Office
+
+IdentifyingNumber : {6DADC2C0-C9A9-4814-B59D-1FFA36F147EB}
+Name              : Intel(R) Rapid Storage Technology
+Vendor            : Intel Corporation
+Version           : 14.6.0.1029
+Caption           : Intel(R) Rapid Storage Technology
+
+IdentifyingNumber : {5BD7E621-9791-4D9F-A620-1BA51153B749}
+Name              : Intel(R) Management Engine Components
+Vendor            : Intel Corporation
+Version           : 1.0.0.0
+Caption           : Intel(R) Management Engine Components
+
+IdentifyingNumber : {AB7F2792-2ED1-4C5C-9F28-680E5110BF72} *
+Name              : Dell Digital Delivery
+Vendor            : Dell Products, LP
+Version           : 3.1.1018.0
+Caption           : Dell Digital Delivery
+
+IdentifyingNumber : {307032B2-6AF2-46D7-B933-62438DEB2B9A}
+Name              : Maxx Audio Installer (x64)
+Vendor            : Waves Audio Ltd.
+Version           : 2.6.6424.0
+Caption           : Maxx Audio Installer (x64)
+
+IdentifyingNumber : {A62A2F03-3006-40CA-A3FA-C1086B2FEF5D}
+Name              : Dell SupportAssistAgent
+Vendor            : Dell
+Version           : 1.2.0.94
+Caption           : Dell SupportAssistAgent
+
+IdentifyingNumber : {7D84E343-A23D-451C-B123-0195B2D903A6}
+Name              : Intel® Trusted Connect Service Client
+Vendor            : Intel Corporation
+Version           : 1.42.17.0
+Caption           : Intel® Trusted Connect Service Client
+
+IdentifyingNumber : {9A287643-10C5-4463-B9D1-B2404CE18CCF}
+Name              : Intel(R) Wireless Bluetooth(R)
+Vendor            : Intel Corporation
+Version           : 17.1.1529.1620
+Caption           : Intel(R) Wireless Bluetooth(R)
+
+IdentifyingNumber : {9ACDDC24-55FE-4E7A-B4BD-DD9761F2F8AB} *
+Name              : Dell Help & Support
+Vendor            : Dell Inc.
+Version           : 2.0.360.0
+Caption           : Dell Help & Support
+
+IdentifyingNumber : {C7CD6D54-26AF-4D93-B06F-D81ACE8624CB}
+Name              : Intel(R) WiDi
+Vendor            : Intel Corporation
+Version           : 6.0.40.0
+Caption           : Intel(R) WiDi
+
+IdentifyingNumber : {4B230374-6475-4A73-BA6E-41015E9C5013}
+Name              : Intel® Security Assist
+Vendor            : Intel Corporation
+Version           : 1.0.0.532
+Caption           : Intel® Security Assist
+
+IdentifyingNumber : {51788BA4-D93F-4E7B-BA13-ACC88E7803DB}
+Name              : Intel(R) Serial IO
+Vendor            : Intel Corporation
+Version           : 30.100.1519.07
+Caption           : Intel(R) Serial IO
+
+IdentifyingNumber : {AE5E3C86-2633-4DAF-A7F4-C43D1E738BAE} *
+Name              : Dell Foundation Services
+Vendor            : Dell Inc.
+Version           : 3.1.3300.0
+Caption           : Dell Foundation Services
+
+IdentifyingNumber : {555B1C57-E71B-4775-BC1D-627EEF693F0D}
+Name              : Intel(R) ME UninstallLegacy
+Vendor            : Intel Corporation
+Version           : 1.0.1.0
+Caption           : Intel(R) ME UninstallLegacy
+
+IdentifyingNumber : {37B8F9C7-03FB-3253-8781-2517C99D7C00}
+Name              : Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030
+
+IdentifyingNumber : {4D4A045B-9761-43D2-811C-1C29CBDB7459}
+Name              : Intel(R) PRO/Wireless Driver
+Vendor            : Intel Corporation
+Version           : 18.12.0000.3040
+Caption           : Intel(R) PRO/Wireless Driver
+
+IdentifyingNumber : {DB82968B-57A4-4397-81A5-ECAB21B5DFCD} *
+Name              : Dell Update
+Vendor            : Dell Inc.
+Version           : 1.7.1015.0
+Caption           : Dell Update
+
+IdentifyingNumber : {A53B7EAB-86BD-4F16-8C44-011B1376326A}
+Name              : Intel(R) Management Engine Components
+Vendor            : Intel Corporation
+Version           : 11.0.0.1162
+Caption           : Intel(R) Management Engine Components
+
+IdentifyingNumber : {B96204EB-3051-4B4F-9534-ED13FE7095D1} *
+Name              : Product Registration
+Vendor            : Dell Inc.
+Version           : 2.2.27.0
+Caption           : Product Registration
+
+IdentifyingNumber : {8C91A5EB-2C62-4A6D-8802-CC79FD2ED390}
+Name              : Intel(R) Chipset Device Software
+Vendor            : Intel Corporation
+Version           : 10.1.1.7
+Caption           : Intel(R) Chipset Device Software
+
+IdentifyingNumber : {B175520C-86A2-35A7-8619-86DC379688B9}
+Name              : Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030
+
+IdentifyingNumber : {5B5CD20C-29F0-4857-A4FA-A4F4C716B019}
+Name              : Intel(R) WiDi Software Asset Manager
+Vendor            : Intel Corporation
+Version           : 1.1.347
+Caption           : Intel(R) WiDi Software Asset Manager
+
+IdentifyingNumber : {124DE80C-9BFE-4D04-A8D9-69C5019DEEBF} *
+Name              : Dell Customer Connect
+Vendor            : Dell Inc.
+Version           : 1.3.28.0
+Caption           : Dell Customer Connect
+
+IdentifyingNumber : {CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}
+Name              : Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030
+
+IdentifyingNumber : {597A58EC-42D6-4940-8739-FB94491B013C} *
+Name              : Dropbox 20 GB
+Vendor            : Dropbox, Inc.
+Version           : 1.0.8.0
+Caption           : Dropbox 20 GB
+
+IdentifyingNumber : {BD95A8CD-1D9F-35AD-981A-3E7925026EBB}
+Name              : Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+Vendor            : Microsoft Corporation
+Version           : 11.0.61030
+Caption           : Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030
+
+IdentifyingNumber : {2E55EEFD-2162-4A7D-9158-EDB0305603A6} *
+Name              : Dell Data Vault
+Vendor            : Dell Inc.
+Version           : 4.3.7.0
+Caption           : Dell Data Vault
+
+IdentifyingNumber : {87CF757E-C1F1-4D22-865C-00C6950B5258}
+Name              : Quickset64
+Vendor            : Dell Inc.
+Version           : 11.5.02
+Caption           : Quickset64
+
+IdentifyingNumber : {C8ADA4FE-F8E7-4A57-8F6C-083195DF78BF}
+Name              : Intel® PROSet/Wireless WiFi Software
+Vendor            : Intel Corporation
+Version           : 18.12.0.0687
+Caption           : Intel® PROSet/Wireless WiFi Software
